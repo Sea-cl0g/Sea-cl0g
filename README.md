@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="500" alt="GitHub Profile 3D Contrib." src="./profile-3d-contrib/profile-season-animate.svg">
+<img width="800" alt="GitHub Profile 3D Contrib." src="./profile-3d-contrib/profile-season-animate.svg">
 
 ## 👤 About Me...
 **ぼーまんのう**
